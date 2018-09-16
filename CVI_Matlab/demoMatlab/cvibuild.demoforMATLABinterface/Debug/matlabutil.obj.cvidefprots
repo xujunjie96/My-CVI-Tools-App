@@ -1,0 +1,28 @@
+[MinMaxMatlab]
+Class="Function"
+Prototype="int MinMaxMatlab(CAObjHandle hMatlab, int minmaxFlag);"
+
+[RunMatlabCommand]
+Class="Function"
+Prototype="int RunMatlabCommand(CAObjHandle hMatlab, char *command);"
+
+[RunMatlabScript]
+Class="Function"
+Prototype="int RunMatlabScript(CAObjHandle hMatlab, char *mFilePath);"
+
+[SendString]
+Class="Function"
+Prototype="int SendString(CAObjHandle hMatlab, char *matStringName, char *CVIString);"
+
+[GetString]
+Class="Function"
+Prototype="int GetString(CAObjHandle hMatlab, char *matStringName, char **cString);"
+
+[SendMatrix]
+Class="Function"
+Prototype="int SendMatrix(CAObjHandle hMatlab, char *matlabName, double *matrixReal, double *matrixImag, unsigned int dim1, unsigned int dim2);"
+
+[GetMatrix]
+Class="Function"
+Prototype="int GetMatrix(CAObjHandle hMatlab, char *matlabName, double **matrixReal, double **matrixImag, unsigned int *dim1, unsigned int *dim2);"
+

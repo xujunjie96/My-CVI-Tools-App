@@ -1,0 +1,239 @@
+[Workspace Header]
+Version = 1700
+Pathname = "/c/Users/junjie/Desktop/demoMatlab/demoforMATLABinterface.cws"
+CVI Dir = "/d/program files (x86)/national instruments/cvi2017"
+CVI Shared Dir = "/D/Program Files (x86)/National Instruments/Shared/CVI"
+CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI2017"
+CVI Pub Global Dir = "/C/ProgramData/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files (x86)/IVI Foundation/IVI"
+IVI Standard Root 64-bit Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/Program Files (x86)/IVI Foundation/VISA/winnt"
+VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
+Number of Projects = 1
+Active Project = 1
+Project 0001 = "demoforMATLABinterface.prj"
+Drag Bar Left = 240
+Window Top = 50
+Window Left = -1292
+Window Bottom = 696
+Window Right = -202
+Maximized = True
+Maximized Children = True
+Max32 Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win At Start = True
+Bring Up Err Win For Errors = False
+Save Changes Before Running = "Always"
+Save Changes Before Compiling = "Always"
+Hide Windows = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 6
+Window Confinement Region Enabled = True
+MainColumnWidth = 223
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+
+[Project Header 0001]
+Version = 1700
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+
+[File 0001]
+Path = "/c/Users/junjie/Desktop/demoMatlab/MLApp.fp"
+File Type = "Function Panel"
+Disk Date = 3617373244
+In Projects = "1,"
+
+[File 0002]
+Path = "/c/Users/junjie/Desktop/demoMatlab/demoforMATLABinterface.c"
+File Type = "CSource"
+Disk Date = 3617373832
+In Projects = "1,"
+Window Top = 154
+Window Left = 71
+Window Z-Order = 1
+Source Window State = "1,388,388,388,50,59,50,0,0,111,0,0,0,0,0,15,375,0,382,67,451,895,1,0,"
+Breakpoint 0001 = "389,0,enabled,"
+Tracepoint 0001 = "0,0,390,1,"
+
+[File 0003]
+Path = "/c/Users/junjie/Desktop/demoMatlab/matlabutil.c"
+File Type = "CSource"
+Disk Date = 3617373832
+In Projects = "1,"
+Window Top = 40
+Window Left = 11
+Window Z-Order = 2
+Source Window State = "1,209,209,209,60,64,64,0,3,80,0,0,0,0,0,21,198,0,209,60,451,895,1,0,"
+
+[File 0004]
+Path = "/c/Users/junjie/Desktop/demoMatlab/demoforMATLABinterface.h"
+File Type = "Include"
+Disk Date = 3573565200
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0005]
+Path = "/c/Users/junjie/Desktop/demoMatlab/matlabutil.h"
+File Type = "Include"
+Disk Date = 3573565200
+In Projects = "1,"
+Window Top = 78
+Window Left = 31
+Window Z-Order = 5
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,21,0,0,0,0,451,895,1,0,"
+
+[File 0006]
+Path = "/c/Users/junjie/Desktop/demoMatlab/demoforMATLABinterface.uir"
+File Type = "User Interface Resource"
+Disk Date = 3573565200
+In Projects = "1,"
+Window Top = 192
+Window Left = 91
+Window Height = 451
+Window Width = 895
+Window Z-Order = 3
+
+[File 0007]
+Path = "/c/Users/junjie/Desktop/demoMatlab/MLApp.h"
+File Type = "Include"
+Disk Date = 3617373244
+In Projects = "1,"
+Window Top = 116
+Window Left = 51
+Window Z-Order = 4
+Source Window State = "1,12,12,12,16,32,32,0,0,80,0,0,0,0,0,21,0,0,12,35,451,895,1,0,"
+
+[File 0008]
+Path = "/c/Users/junjie/Desktop/demoMatlab/MLApp.obj"
+File Type = "Object"
+Disk Date = 3617373248
+In Projects = "1,"
+
+[File 0009]
+Path = "/c/Users/junjie/Desktop/demoMatlab/MLApp.sub"
+File Type = "Unknown"
+Disk Date = 3617373244
+In Projects = "1,"
+
+[File 0010]
+Path Line0001 = "/d/Program Files (x86)/National Instruments/Shared/MSDTRedistributables/SDKHeade"
+Path Line0002 = "rFiles/8.1/winnt.h"
+File Type = "Include"
+Disk Date = 3548790426
+In Projects = ""
+Window Top = 40
+Window Left = 11
+Window Z-Order = 6
+Source Window State = "1,603,603,603,8,29,29,0,0,79,0,0,0,0,0,15,596,0,608,17,331,895,1,0,"
+
+[Tab Order]
+Tab 0001 = "/c/Users/junjie/Desktop/demoMatlab/matlabutil.c"
+Tab 0002 = "/c/Users/junjie/Desktop/demoMatlab/matlabutil.h"
+Tab 0003 = "/c/Users/junjie/Desktop/demoMatlab/MLApp.h"
+Tab 0004 = "/c/Users/junjie/Desktop/demoMatlab/demoforMATLABinterface.c"
+Tab 0005 = "/c/Users/junjie/Desktop/demoMatlab/demoforMATLABinterface.uir"
+Tab 0006 Line0001 = "/d/Program Files (x86)/National Instruments/Shared/MSDTRedistributables/SDKHeade"
+Tab 0006 Line0002 = "rFiles/8.1/winnt.h"
+
+[Default Build Config 0001 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Extended"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Extended"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Build Dependencies 0001]
+Number of Dependencies = 0
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0001]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[Command Line Args 0001]
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+
+[Watch 1]
+Watch Expression = "(double*)matrix_r"
+
+[Watch 2]
+Watch Expression = "matrix_r"
+

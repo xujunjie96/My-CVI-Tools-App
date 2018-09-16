@@ -1,0 +1,60 @@
+[ErrFunc]
+Class="Function"
+Prototype="void ErrFunc(long errCode, char *errMesg);"
+
+[CloseMatlab]
+Class="Function"
+Prototype="int CloseMatlab(CAObjHandle *hMatlabPtr);"
+
+[UIRDimming]
+Class="Function"
+Prototype="void UIRDimming(int state);"
+
+[main]
+Class="Function"
+Prototype="int main(int argc, char **argv);"
+
+[launchCB]
+Class="Function"
+Prototype="int launchCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[exitCB]
+Class="Function"
+Prototype="int exitCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[quitCB]
+Class="Function"
+Prototype="int quitCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[runCB]
+Class="Function"
+Prototype="int runCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[maxMinCB]
+Class="Function"
+Prototype="int maxMinCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[runMCB]
+Class="Function"
+Prototype="int runMCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fftCB]
+Class="Function"
+Prototype="int fftCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[invertCB]
+Class="Function"
+Prototype="int invertCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[solveDiffEqnCB]
+Class="Function"
+Prototype="int solveDiffEqnCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[sendStrCB]
+Class="Function"
+Prototype="int sendStrCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[getStrCB]
+Class="Function"
+Prototype="int getStrCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
